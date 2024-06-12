@@ -1108,6 +1108,7 @@
 		A1CA2EF228240A8D000DB82F /* VLCOpenManagedServersViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VLCOpenManagedServersViewController.xib; sourceTree = "<group>"; };
 		A1CA2EF428240B8E000DB82F /* VLCOpenManagedServersViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VLCOpenManagedServersViewController.h; sourceTree = "<group>"; };
 		A1CA2EF528240BA0000DB82F /* VLCOpenManagedServersViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VLCOpenManagedServersViewController.m; sourceTree = "<group>"; };
+		A733900D2C196A9800BB0BEE /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		A79246C7170F11DF0036AAF2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; lineEnding = 0; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.simpleColoring; };
 		A79246C9170F11E40036AAF2 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		AF116147FD13655FDCF10359 /* Pods-VLC-iOSTests.distribution.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VLC-iOSTests.distribution.xcconfig"; path = "Target Support Files/Pods-VLC-iOSTests/Pods-VLC-iOSTests.distribution.xcconfig"; sourceTree = "<group>"; };
@@ -1956,6 +1957,7 @@
 			isa = PBXGroup;
 			children = (
 				DD29A3E81BF21E3D00A27A91 /* SharedConfig.xcconfig */,
+				A733900D2C196A9800BB0BEE /* Package.swift */,
 				7DC7BA6C28C892EA00109F28 /* Sources */,
 				A7924697170F0ED20036AAF2 /* Resources */,
 				7DB40AA028C7B49700EDACA0 /* Testing */,
